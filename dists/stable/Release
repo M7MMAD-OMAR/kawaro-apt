@@ -1,0 +1,25 @@
+Acquire-By-Hash: yes
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Fri, 30 Oct 2026 03:51:56 +0000
+Description: Kawaro stable repository
+Label: Kawaro
+Origin: Kawaro
+Suite: stable
+MD5Sum:
+ e8373c27b32bec8ac2afbcb4928cffc2             1141 main/binary-amd64/Packages
+ 56dafb1bec5d31e8d980678c5200407e              770 main/binary-amd64/Packages.gz
+ f58ff569e07fe18f7144d00a63239521               81 main/binary-amd64/Release
+SHA1:
+ 86815f6f1b214b1952e4a48bf592eb7d22f00dac             1141 main/binary-amd64/Packages
+ 15f3bd5b781a8a6367c9d3b81f12cc72f36d748f              770 main/binary-amd64/Packages.gz
+ 8c837804ec5f49a9d5e6e1d0d98a74dcfc5806aa               81 main/binary-amd64/Release
+SHA256:
+ 4c31f34483106188bfeffe951f975ba65e746d5824e5fbd25f2bb2d52c1a3d22             1141 main/binary-amd64/Packages
+ 18285aeffb2cc6ae76a79753ff45e8b637e19b81f05380cd8ce0ce101c2c3ebf              770 main/binary-amd64/Packages.gz
+ 31d047c15c474f8217e86295c145087ee65de62fef845b6c214c07be8c018f03               81 main/binary-amd64/Release
+SHA512:
+ c7c2be93530592bc96bd717a0c51610ebcd804ebc8df146d7af330f3dd1875075a01b28441de0f5790e781bf6899df2c9ee72c9aa498888afeddd6dfca09cf05             1141 main/binary-amd64/Packages
+ 3dd14c0657bde38ccbb695ab7f89a9d3cc0ee3368c3627ea8b54e9fa8cc2df3d1c90a2fd4ce79f62747dbb21096055cd570f4a48fc387d4ddcfef12716bb418a              770 main/binary-amd64/Packages.gz
+ 636910c0d852adeb858c73f95e315f4a8b10b6a247770f6833aacddf071f220ec1defd498d0b44e1626e1458c493e2cf0b012dec581b6c687b5d1501d64b495f               81 main/binary-amd64/Release
