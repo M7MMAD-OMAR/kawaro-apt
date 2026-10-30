@@ -1,28 +1,5 @@
 Package: kawaro
 Architecture: amd64
-Version: 0.4.4
-Priority: optional
-Section: utils
-Maintainer: MUHMAD HAJ HMDO <73592103+M7MMAD-OMAR@users.noreply.github.com>
-Installed-Size: 45296
-Depends: libc6 (>= 2.35), libgcc-s1, libfontconfig1, libfreetype6
-Recommends: ffmpeg, ghostscript, libreoffice-writer | libreoffice-core, wl-clipboard, curl
-Suggests: python3-nautilus
-Filename: pool/main/k/kawaro/kawaro_0.4.4_amd64.deb
-Size: 14825732
-MD5sum: 061baf5d8e0c2747b1409bf5a7acc7ce
-SHA1: 7f1ef0c888224a1506d7ccd5d73262487821acd2
-SHA256: c99b963291b3c5a07b72c910f0583dea419d7e9203f52f6580e7dff944d37ca8
-SHA512: 563683e1b64067c1e21174555a3aaf05416659b0538a41153509207a426b1a1ee60752ee6865506366999488be377c34aab7da1fec486d647e8f061a1b9a3098
-Homepage: https://github.com/M7MMAD-OMAR/kawaro
-Description: Local file converter with a honeycomb picker in your file manager
- Kawaro converts and processes files entirely on your machine. Select
- files in Dolphin, Nautilus or Nemo, choose Kawaro from the right-click
- menu, and pick an action from the hexagonal hive. The result is saved next
- to the original, which is never modified. Arabic and English.
-
-Package: kawaro
-Architecture: amd64
 Version: 0.4.5
 Priority: optional
 Section: utils
@@ -60,6 +37,29 @@ MD5sum: ceae333167d42e011f186425d3934bce
 SHA1: 84ffb1ae749ff0669564155f6f31c0c872062b9c
 SHA256: 66d6afba810bbfee039e15a9097dcea7b7426cdc6ffae1d035a17078f1ab14a5
 SHA512: 370dce0a2191662dfda104f3bfdc71d0e85b9cb51f5a5d79c598ab918749faf63e8ee7ed0be0ed5a68f6769ef97fe62ffb0c84f70d58102c22c380a1c46025ea
+Homepage: https://github.com/M7MMAD-OMAR/kawaro
+Description: Local file converter with a honeycomb picker in your file manager
+ Kawaro converts and processes files entirely on your machine. Select
+ files in Dolphin, Nautilus or Nemo, choose Kawaro from the right-click
+ menu, and pick an action from the hexagonal hive. The result is saved next
+ to the original, which is never modified. Arabic and English.
+
+Package: kawaro
+Architecture: amd64
+Version: 0.4.7
+Priority: optional
+Section: utils
+Maintainer: Kawaro maintainer <73592103+M7MMAD-OMAR@users.noreply.github.com>
+Installed-Size: 45292
+Depends: libc6 (>= 2.35), libgcc-s1, libfontconfig1, libfreetype6
+Recommends: ffmpeg, ghostscript, libreoffice-writer | libreoffice-core, wl-clipboard, curl
+Suggests: python3-nautilus
+Filename: pool/main/k/kawaro/kawaro_0.4.7_amd64.deb
+Size: 14840950
+MD5sum: 086040a961a59223c856064b454ed564
+SHA1: 1ff322ab70664884e0ff9e881cdfb25a074e16f0
+SHA256: 1f8bcec12f03e31375c1d08454830a915d89a15f36443b4b7b2637d693f3e7a0
+SHA512: 0b927fd8dd338e3fac50e717f226374dc7c0981f3ffdb40c6019b69fa136339a5bac101fae73f37ac69b57eb749552d880b9244e2079b3b7b2c589e2c39cf5e7
 Homepage: https://github.com/M7MMAD-OMAR/kawaro
 Description: Local file converter with a honeycomb picker in your file manager
  Kawaro converts and processes files entirely on your machine. Select

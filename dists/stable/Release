@@ -2,24 +2,24 @@ Acquire-By-Hash: yes
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Fri, 30 Oct 2026 21:08:36 +0000
+Date: Fri, 30 Oct 2026 22:59:55 +0000
 Description: Kawaro stable repository
 Label: Kawaro
 Origin: Kawaro
 Suite: stable
 MD5Sum:
- 56db55984f84242ef281639d21b2a371             3425 main/binary-amd64/Packages
- dfabf2d7810a39871b916643e75cc1b6             1188 main/binary-amd64/Packages.gz
+ b22559061efc849ca0e76ec65234e02a             3427 main/binary-amd64/Packages
+ 770687ef542cf6ce1f197a24b9ccdb9b             1189 main/binary-amd64/Packages.gz
  f58ff569e07fe18f7144d00a63239521               81 main/binary-amd64/Release
 SHA1:
- 4d90f561a4b0e80448f191497991094a37f64f43             3425 main/binary-amd64/Packages
- 1ce1f10d9d61c3b2df6c8424ec8fc41b6f8edd82             1188 main/binary-amd64/Packages.gz
+ 51c874a6a7acfa3b67ebab7acbc5f6c08e6e2916             3427 main/binary-amd64/Packages
+ e7e24d254c6c1918e56e645fb6075bb03e7558a3             1189 main/binary-amd64/Packages.gz
  8c837804ec5f49a9d5e6e1d0d98a74dcfc5806aa               81 main/binary-amd64/Release
 SHA256:
- 3001649ea2e75e6af3123fc5c5a3f51c7789eca458ebfdd63b4a0ec59b3912b7             3425 main/binary-amd64/Packages
- 7949859786a070831870f895b134e58b6ab2d870ea0749e505a0742edc51e3f9             1188 main/binary-amd64/Packages.gz
+ 3f6a7be1235e9ecf8089317c7959a6d059b1616f8362f39e695246373698a50e             3427 main/binary-amd64/Packages
+ 045d01284f6ddf908bea4d17c2049d5883c196b128fc10ac36979338975bc926             1189 main/binary-amd64/Packages.gz
  31d047c15c474f8217e86295c145087ee65de62fef845b6c214c07be8c018f03               81 main/binary-amd64/Release
 SHA512:
- 7641276a8fe4c75438a2da00c19da29029a0fbd757ca9a4b9d9c892e188f0b561dbb72a8381e4fa14efe97fcf1c7b6be873bf8ce0e59ce72bf698497b3b806d2             3425 main/binary-amd64/Packages
- d089f06fd5ce8297066703246a71b9e868d379e439c3acf6b556c674f72daa20c354056b3da7501949e2af4c639446ee86b56ee929c8fef048f00ca4b94bf956             1188 main/binary-amd64/Packages.gz
+ 5da5829526058fb6a375266209b2c534ae33b24883d5311a10a9b794c93fb2e3057573467ad2cc2714afc5a03871ef647bac6cfaa4603cf70a3c2ec0e6010e05             3427 main/binary-amd64/Packages
+ 52575ee4b4dda5cb38fd53b6338b5f221b67acc8dd603ae4e6afbdfd713244d0d5a232d8071115e52029ff014e3eed9fdf761e572123a90bf42d33959388cc3f             1189 main/binary-amd64/Packages.gz
  636910c0d852adeb858c73f95e315f4a8b10b6a247770f6833aacddf071f220ec1defd498d0b44e1626e1458c493e2cf0b012dec581b6c687b5d1501d64b495f               81 main/binary-amd64/Release
