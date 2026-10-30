@@ -5,31 +5,31 @@ Acquire-By-Hash: yes
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Fri, 30 Oct 2026 17:27:05 +0000
+Date: Fri, 30 Oct 2026 21:08:36 +0000
 Description: Kawaro stable repository
 Label: Kawaro
 Origin: Kawaro
 Suite: stable
 MD5Sum:
- deacef6f2db91df572b462cfc9ad5abb             3423 main/binary-amd64/Packages
- 68fb4979e9b443c88f6f655c88175704             1178 main/binary-amd64/Packages.gz
+ 56db55984f84242ef281639d21b2a371             3425 main/binary-amd64/Packages
+ dfabf2d7810a39871b916643e75cc1b6             1188 main/binary-amd64/Packages.gz
  f58ff569e07fe18f7144d00a63239521               81 main/binary-amd64/Release
 SHA1:
- d3966d267bae739591459be91234d89ff24e75d7             3423 main/binary-amd64/Packages
- 9e0cde28c195822e037a6fdc2e76e13d7a33ef06             1178 main/binary-amd64/Packages.gz
+ 4d90f561a4b0e80448f191497991094a37f64f43             3425 main/binary-amd64/Packages
+ 1ce1f10d9d61c3b2df6c8424ec8fc41b6f8edd82             1188 main/binary-amd64/Packages.gz
  8c837804ec5f49a9d5e6e1d0d98a74dcfc5806aa               81 main/binary-amd64/Release
 SHA256:
- 8ad5110a990e8f77f494ded3fe39ee530b14db0b75080e6a05a1bc587a2ebf19             3423 main/binary-amd64/Packages
- 090489a268735c88ea72ec4f1f8cc25fb0747adcd1aa77bc4316b082a18fa20d             1178 main/binary-amd64/Packages.gz
+ 3001649ea2e75e6af3123fc5c5a3f51c7789eca458ebfdd63b4a0ec59b3912b7             3425 main/binary-amd64/Packages
+ 7949859786a070831870f895b134e58b6ab2d870ea0749e505a0742edc51e3f9             1188 main/binary-amd64/Packages.gz
  31d047c15c474f8217e86295c145087ee65de62fef845b6c214c07be8c018f03               81 main/binary-amd64/Release
 SHA512:
- e68f5a6d2e2b5d27787561d65ee115115ea37628a6f6b97b4bd67b574f31ffc17a94ec7d98075d26362176e570a2cd062575e48346ab15d1cf2e1b94c0e54aec             3423 main/binary-amd64/Packages
- a6ee7c19e80df659d5f26cdfc9b4295ef21355cecfaab7215c7e79b502b2124d9776afafa139c326765b46c312cada724fa63dc06e765edd904777aefb264c58             1178 main/binary-amd64/Packages.gz
+ 7641276a8fe4c75438a2da00c19da29029a0fbd757ca9a4b9d9c892e188f0b561dbb72a8381e4fa14efe97fcf1c7b6be873bf8ce0e59ce72bf698497b3b806d2             3425 main/binary-amd64/Packages
+ d089f06fd5ce8297066703246a71b9e868d379e439c3acf6b556c674f72daa20c354056b3da7501949e2af4c639446ee86b56ee929c8fef048f00ca4b94bf956             1188 main/binary-amd64/Packages.gz
  636910c0d852adeb858c73f95e315f4a8b10b6a247770f6833aacddf071f220ec1defd498d0b44e1626e1458c493e2cf0b012dec581b6c687b5d1501d64b495f               81 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRHI8LcbLelBGG1HT1sNot9EFT4fQUCauTTaQAKCRBsNot9EFT4
-fUlgAP9y4NTMnReE8IIsp+a0US2eoLJTMqA0UuGC/QT8ioMmtAEA5oNPifYgwhcO
-vav+8BGW5fEvGIP4uMwNvxuXkd84Ogc=
-=zWYj
+iHUEARYKAB0WIQRHI8LcbLelBGG1HT1sNot9EFT4fQUCauUHVAAKCRBsNot9EFT4
+ffBIAP9+zEfMgnhXUSUYU5fHpWvzVdB1Q+DYnBeJo0GtyPqhMAD/SD+5XdqaGHS8
+dIaJaxR4D/72pVNZ83GA+fTLtHTHgQw=
+=esUp
 -----END PGP SIGNATURE-----
